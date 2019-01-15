@@ -1,0 +1,26 @@
+{
+    "name": "slime-solid",
+    "displayName": "Slime Solid Theme",
+    "description": "Slime Theme without Borders",
+    "version": "1.0.0",
+    "publisher": "ganevru",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ganevru/theme-slime-solid.git"
+    },
+    "engines": {
+        "vscode": "*"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Slime Solid",
+                "uiTheme": "vs-dark",
+                "path": "./themes/slime-solid-color-theme.json"
+            }
+        ]
+    }
+}
