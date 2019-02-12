@@ -4,6 +4,10 @@
     "description": "Slime Theme without Borders",
     "version": "1.0.0",
     "publisher": "ganevru",
+    "author": {
+        "name": "Ivan Ganev",
+        "email": "iganevru@gmail.com"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/ganevru/theme-slime-solid.git"
